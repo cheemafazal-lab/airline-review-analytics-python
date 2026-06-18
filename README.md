@@ -27,6 +27,8 @@ Open and run:
 
 airline_review_analytics.py
 
+Selected output charts are included in the repository as visual examples of the analysis.
+
 Author
 
 Fazal Ur Rehman Cheema
